@@ -1,0 +1,11 @@
+<div class="top-bar-container">
+  <ng-select [(ngModel)]="value"
+             (ngModelChange)="channelsService.sorting$.next($event)"
+             [appendTo]="'body'"
+             [items]="items"
+             [ngModelOptions]="{standalone: true}"
+             [placeholder]=""
+             bindValue="value"
+             bindLabel="label"
+             class="lr-select"></ng-select>
+</div>

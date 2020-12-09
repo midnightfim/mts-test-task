@@ -1,0 +1,21 @@
+<div class="channel-item">
+  <img [src]="channel.picture.backgrounds" alt="no-image" class="channel-item-image">
+  <i [ngbTooltip]="tipContent"
+     triggers="hover:blur"
+     #tip="ngbTooltip"
+     (mouseenter)="toggleTooltip(tip, channel)"
+     placement="auto"
+     autoClose="outside"
+     [animation]="true"
+     [tooltipClass]="'channel-item-tooltip'"
+     class="fas fa-info-circle">
+  </i>
+</div>
+
+<ng-template #tipContent let-channel="channel">
+  <div class="tooltip-container">
+    <img [src]="channel.picture.channelBlackWhites[0]" alt="no-image">
+    <h3>{{channel.name}}</h3>
+    <span>{{channel.introduce}}</span>
+  </div>
+</ng-template>

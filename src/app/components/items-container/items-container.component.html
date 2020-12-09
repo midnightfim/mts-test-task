@@ -1,0 +1,6 @@
+<div class="items-container">
+  <ng-container *ngFor="let channel of filteredChannels; let i = index">
+    <channel-item [channel]="channel">
+    </channel-item>
+  </ng-container>
+</div>
