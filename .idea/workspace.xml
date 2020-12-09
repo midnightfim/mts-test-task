@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38acc5bb-6210-48ba-9e75-d1b4866137b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3rdpartylicenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/channels.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-brands-400.0fea24969112a781acd2.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-brands-400.c967a94cfbe2b06627ff.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-brands-400.dc2cbadd690e1d4b2c9c.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-brands-400.e33e2cf6e02cac2ccb77.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-brands-400.ec82f282c7f54b637098.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-regular-400.06b9d19ced8d17f3d5cb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-regular-400.08f9891a6f44d9546678.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-regular-400.1008b5226941c24f4468.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-regular-400.1069ea55beaa01060302.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-regular-400.1495f578452eb676f730.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-solid-900.10ecefc282f2761808bf.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-solid-900.371dbce0dd46bd4d2033.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-solid-900.3a24a60e7f9c6574864a.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-solid-900.3ceb50e7bcafb577367c.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fa-solid-900.46fdbd2d897f8824e63c.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.a597b767ebaf5cc1eb53.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polyfills.bf99d438b005d57b2b31.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.359d5ee4682f20e936e9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.98d622caf2425d8ce6f8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/3rdpartylicenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/assets/channels.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-brands-400.0fea24969112a781acd2.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-brands-400.c967a94cfbe2b06627ff.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-brands-400.dc2cbadd690e1d4b2c9c.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-brands-400.e33e2cf6e02cac2ccb77.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-brands-400.ec82f282c7f54b637098.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-regular-400.06b9d19ced8d17f3d5cb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-regular-400.08f9891a6f44d9546678.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-regular-400.1008b5226941c24f4468.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-regular-400.1069ea55beaa01060302.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-regular-400.1495f578452eb676f730.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-solid-900.10ecefc282f2761808bf.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-solid-900.371dbce0dd46bd4d2033.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-solid-900.3a24a60e7f9c6574864a.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-solid-900.3ceb50e7bcafb577367c.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/fa-solid-900.46fdbd2d897f8824e63c.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/main.a597b767ebaf5cc1eb53.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/polyfills.bf99d438b005d57b2b31.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/runtime.359d5ee4682f20e936e9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mts-test-task/styles.98d622caf2425d8ce6f8.css" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lQrnFaPQxF8hbJ0fRCmsYgbPB1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\User\Desktop\projects\home\mts-test-task\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\projects\home\mts-test-task\src\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (mts-test-task)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (mts-test-task)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38acc5bb-6210-48ba-9e75-d1b4866137b2" name="Default Changelist" comment="" />
+      <created>1607540320230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607540320230</updated>
+      <workItem from="1607540321340" duration="780000" />
+      <workItem from="1607541116503" duration="77000" />
+      <workItem from="1607541200208" duration="669000" />
+      <workItem from="1607541875660" duration="174000" />
+      <workItem from="1607542056151" duration="896000" />
+      <workItem from="1607542960605" duration="4728000" />
+      <workItem from="1607547698912" duration="7957000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
